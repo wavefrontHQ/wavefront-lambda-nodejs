@@ -3,7 +3,7 @@
 This is a Wavefront Go wrapper for AWS Lambda to enable reporting standard lambda metrics and custom app metrics directly to wavefront.
 
 ## Requirements
-Go 1.x
+Node.js runtime v8.10
 
 ## Installation
 ```
