@@ -1,6 +1,6 @@
 # wavefront-lambda-nodejs
 
-This is a Wavefront Go wrapper for AWS Lambda to enable reporting standard lambda metrics and custom app metrics directly to wavefront.
+This is a Wavefront Nodejs wrapper for AWS Lambda to enable reporting standard lambda metrics and custom app metrics directly to wavefront.
 
 ## Requirements
 Node.js runtime v8.10
