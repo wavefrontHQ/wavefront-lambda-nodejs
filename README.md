@@ -11,7 +11,7 @@ npm install wavefront-lambda
 ```
 
 ## Environment variables
-WAVEFRONT_URL = <INSTANCE>.wavefront.com  
+WAVEFRONT_URL = \<INSTANCE>.wavefront.com  
 WAVEFRONT_API_TOKEN = Wavefront API token with Direct Data Ingestion permission.  
 REPORT_STANDARD_METRICS = Set to False or false to not report standard lambda metrics directly to wavefront.  
 
