@@ -1,0 +1,32 @@
+{
+  "name": "wavefront-lambda",
+  "version": "0.9.0",
+  "description": "Wavefront Lambda Wrapper to direcly report metrics from AWS Lambda functions.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wavefrontHQ/wavefront-lambda-nodejs.git"
+  },
+  "keywords": [
+    "lambda",
+    "wrapper",
+    "serverless",
+    "wavefront",
+    "vmware"
+  ],
+  "author": "Anil Kodali <akodali@vmware.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wavefrontHQ/wavefront-lambda-nodejs/issues"
+  },
+  "homepage": "https://github.com/wavefrontHQ/wavefront-lambda-nodejs#readme",
+  "dependencies": {
+    "wavefrontmetrics": "^1.0.1"
+  }
+}
