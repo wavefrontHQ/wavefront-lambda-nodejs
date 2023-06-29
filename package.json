@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/wavefrontHQ/wavefront-lambda-nodejs#readme",
   "dependencies": {
-    "semver": "^5.5.0",
+    "semver": "^7.5.3",
     "wavefrontmetrics": "^1.0.1"
   }
 }
