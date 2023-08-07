@@ -1,3 +1,7 @@
+> **Warning**
+>
+> VMware has ended active development of this project. this repository will no longer be updated.
+
 # wavefront-lambda-nodejs
 
 This is a Wavefront Nodejs wrapper for AWS Lambda to enable reporting standard lambda metrics and custom app metrics directly to wavefront.
